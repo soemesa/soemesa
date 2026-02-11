@@ -1,4 +1,4 @@
-## Oiii eu sou a Soilenyis Mesa, estudante de Analise e Desenvolvimento de Sistemas
+## Oiii eu sou a Soilenyis Mesa, Analista e Desenvolvedora de Sistemas
 
 <div> 
   <a href="https://github.com/soemesa">
